@@ -3,7 +3,7 @@ PetBio is the first app that you build in "The Complete Android & Java Developer
 It is a really simple app. The application navigates between two activities displaying the bio of a selected pet.
 
 Concepts Involved:
-Intents to launch a new activities.
+Intents to launch new activities.
 Bundles to extract the data being passed between activities. 
 
 Learning Experience:
